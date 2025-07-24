@@ -1,15 +1,17 @@
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" width="80" alt="Denmark flag" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/pymc-devs/brand/main/pymc/pymc_logos/PyMC_banner.svg" width="80" alt="PyMC Logo" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://mairiechambaronsurmorge.fr/sitemcsm/wp-content/uploads/2020/03/modele-logo-rouge-covid-19_23-2148501246.jpg" width="80" alt="Covid-19 Virus" />
+</p>
+
 # Modélisation bayésienne de l’épidémie de Covid-19 au Danemark (SIRHD)
 
 ## Objectif du projet
 
 Ce projet a pour objectif de modéliser et prédire l’évolution de l’épidémie de Covid-19 au Danemark à partir de données publiques, en utilisant un modèle compartimental SIRHD calibré via des méthodes bayésiennes avancées.
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" width="40" alt="Denmark flag" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/pymc-devs/brand/main/pymc/pymc_logos/PyMC_banner.svg" width="80" alt="PyMC Logo" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://mairiechambaronsurmorge.fr/sitemcsm/wp-content/uploads/2020/03/modele-logo-rouge-covid-19_23-2148501246.jpg" width="100" alt="Covid-19 Virus" />
-</p>
+
 
 
 ---
